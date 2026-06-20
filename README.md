@@ -38,6 +38,13 @@ pip install -r requirements.txt
 python train_model.py
 streamlit run app.py
 ```
+## Results
+
+- Accuracy: 99.80%
+- Precision: 99.8%
+- Recall: 99.8%
+- Random Forest Classifier
+- Streamlit Dashboard
 
 ## Author
 
