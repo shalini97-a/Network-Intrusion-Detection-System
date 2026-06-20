@@ -27,10 +27,13 @@ NSL-KDD Network Intrusion Dataset
 
 ## Results
 
-* Accuracy: 99.8%
-* High precision and recall for anomaly detection
-* Interactive dashboard for traffic analysis
-
+- Accuracy: 99.80%
+- Precision: 99.8%
+- Recall: 99.8%
+- Random Forest Classifier
+- Streamlit Dashboard
+- Interactive dashboard for traffic analysis
+  
 ## Run Project
 
 ```bash
@@ -38,13 +41,6 @@ pip install -r requirements.txt
 python train_model.py
 streamlit run app.py
 ```
-## Results
-
-- Accuracy: 99.80%
-- Precision: 99.8%
-- Recall: 99.8%
-- Random Forest Classifier
-- Streamlit Dashboard
 
 ## Author
 
