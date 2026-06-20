@@ -49,7 +49,7 @@ Shalini Anand
 <h2>Project Screenshots</h2>
 
 <p align="center">
-  <img src="screenshots/dashboard_home.png" width="30%">
-  <img src="screenshots/prediction_results.png" width="30%">
-  <img src="screenshots/attack_analysis.png" width="30%">
+  <img src="screenshots/dashboard home.jpg" width="30%">
+  <img src="screenshots/result.jpg" width="30%">
+  <img src="screenshots/prediction result.jpg" width="30%">
 </p>
